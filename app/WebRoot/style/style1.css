@@ -1,0 +1,101 @@
+p, label, option, span, .table{
+font-size: 30px;
+}
+.form-control{
+font-size: 20px;
+}
+
+.fieldset, th {
+text-align: center;
+}
+
+
+.shifr{
+	text-align: center;
+	font-size: 25px;
+}
+#output {
+  font-size: 30px;
+}
+.vishener{
+	text-align: center;
+	background-color: #BFE2F5;
+}
+
+
+.fon
+{
+	min-height: 370px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.auto
+{
+    float: right;
+    background-color: #BFE2F5;
+    width: 300px;
+    border: 1px solid gray;
+    margin-right: 15px;
+}
+
+.priv
+{
+   
+    position: absolute;
+    border-left: 15px;
+    height: 100px;
+    width: 250px;
+}
+
+img
+{
+    margin-left: 30px;
+}
+
+.vxod h2
+{
+    font-size: 30pt;
+    margin-left: 300px;
+    color: red;
+}
+a{
+	font-size: 25px;
+}
+
+.user
+{
+    margin-left:15px;
+    margin-top: 30px;
+
+}
+
+.pass
+{
+    margin-top: 20px;
+    margin-left:15px;
+}
+
+.but
+{
+	margin-left: 15px;
+    margin-top: 20px;
+    height: 30px;
+    background-color: #BFE2F5;
+    border-style: solid;
+    border: 1px solid darkgray;
+	cursor:pointer;
+}
+.knonka
+{
+ margin-top: 20px;
+}
+
+input,select
+{
+	font-size: 25px;
+}
+.auto input{
+	font-size: 20px;
+}
+
